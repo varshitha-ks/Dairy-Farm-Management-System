@@ -1,2 +1,0 @@
-# Dairy Farm Management System
- 
